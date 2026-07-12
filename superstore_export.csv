@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Name,Region,Category,Sub_Category,Sales,Quantity,Profit,Year,Month
+1001,08/06/2025,Anjali,West,Electronics,Mouse,56522,1,2826,2025,June
+1002,23/09/2025,Pooja,South,Office Supplies,Marker,7513,3,1126,2025,September
+1003,01/10/2025,Karthik,South,Electronics,Mouse,29569,7,5618,2025,October
+1004,25/12/2025,Ramesh,South,Electronics,SSD,33802,9,3042,2025,December
+1005,10/08/2025,Asha,North,Office Supplies,Stapler,7362,9,1325,2025,August
+1006,12/12/2025,Deepa,West,Electronics,Camera,13618,7,1770,2025,December
+1007,04/06/2025,Ramesh,North,Office Supplies,Printer,7901,1,1264,2025,June
+1008,06/12/2025,Priya,West,Electronics,Headphones,45980,1,7816,2025,December
+1009,02/12/2025,Vinod,North,Electronics,Keyboard,26688,10,5070,2025,December
+1010,13/11/2025,Sneha,West,Office Supplies,Notebook,7924,2,792,2025,November
+1011,16/09/2025,Amit,South,Furniture,Chair,24961,9,1248,2025,September
+1012,09/04/2025,Naveen,West,Electronics,Headphones,59358,4,6529,2025,April
+1013,14/10/2025,Swathi,North,Office Supplies,Pen,1230,6,159,2025,October
+1014,09/02/2025,Ramesh,South,Office Supplies,Envelope,7154,9,1430,2025,February
+1015,16/02/2025,Gokul,South,Office Supplies,Pen,8821,9,529,2025,February
+1016,26/07/2025,Divya,West,Office Supplies,Files,2521,2,126,2025,July
+1017,14/10/2025,Divya,South,Electronics,Mobile,58350,1,3501,2025,October
+1018,12/03/2025,Rahul,West,Electronics,Camera,10606,5,1590,2025,March
+1019,28/06/2025,Nisha,West,Electronics,Monitor,33387,6,4674,2025,June
+1020,18/09/2025,Amit,South,Office Supplies,Notebook,6491,7,649,2025,September
+1021,28/01/2025,Sneha,East,Electronics,Speaker,30109,10,5720,2025,January
+1022,13/01/2025,Manoj,South,Office Supplies,Paper,4976,4,447,2025,January
+1023,24/03/2025,Sanjay,South,Office Supplies,Paper,924,3,129,2025,March
+1024,05/06/2025,Renu,North,Electronics,Monitor,45884,8,9176,2025,June
+1025,21/05/2025,Harish,South,Electronics,Headphones,36616,5,3661,2025,May
+1026,09/09/2025,Latha,North,Furniture,Sofa,24783,4,2973,2025,September
+1027,28/10/2025,Amit,North,Electronics,Laptop,43416,5,5644,2025,October
+1028,23/09/2025,Nisha,South,Electronics,Monitor,55977,5,7836,2025,September
+1029,13/12/2025,Sanjay,West,Furniture,Bed,34514,3,3796,2025,December
+1030,08/04/2025,Latha,South,Office Supplies,Stapler,615,2,86,2025,April
+1031,20/10/2025,Deepa,South,Office Supplies,Printer,3941,4,551,2025,October
+1032,29/12/2025,Naveen,North,Electronics,Headphones,37284,7,1864,2025,December
+1033,28/09/2025,Ramesh,West,Electronics,Tablet,4025,1,362,2025,September
+1034,16/06/2025,Swathi,North,Electronics,Headphones,3002,2,480,2025,June
+1035,10/09/2025,Sneha,West,Furniture,Recliner,16372,5,2292,2025,September
+1036,23/09/2025,Kavya,North,Office Supplies,Marker,9859,4,1183,2025,September
+1037,03/07/2025,Ramesh,North,Electronics,Headphones,46347,1,4634,2025,July
+1038,04/03/2025,Naveen,West,Furniture,Chair,16210,2,1134,2025,March
+1039,30/05/2025,Nisha,South,Electronics,Monitor,37431,1,3368,2025,May
+1040,14/01/2025,Nisha,West,Furniture,Bookshelf,4085,2,490,2025,January
+1041,22/03/2025,Divya,West,Furniture,Cupboard,13546,10,1625,2025,March
+1042,05/03/2025,Prakash,North,Office Supplies,Printer,727,4,72,2025,March
+1043,18/08/2025,Nisha,South,Furniture,Bed,3389,4,338,2025,August
+1044,25/04/2025,Manoj,South,Office Supplies,Envelope,8464,6,1523,2025,April
+1045,12/06/2025,Deepa,East,Electronics,Keyboard,33502,5,1675,2025,June
+1046,25/10/2025,Rahul,East,Electronics,Speaker,22448,8,2469,2025,October
+1047,18/12/2025,Meena,North,Furniture,TV Stand,34676,10,3467,2025,December
+1048,25/04/2025,Naveen,West,Office Supplies,Pen,7632,1,686,2025,April
+1049,13/05/2025,Meena,East,Electronics,Smartwatch,3689,9,627,2025,May
+1050,20/10/2025,Amit,South,Office Supplies,Paper,9892,4,1978,2025,October
+1051,13/02/2025,Swathi,North,Electronics,Speaker,49827,1,7972,2025,February
+1052,17/06/2025,Prakash,East,Office Supplies,Files,5556,8,444,2025,June
+1053,19/10/2025,Asha,South,Electronics,SSD,15348,5,1841,2025,October
+1054,30/04/2025,Swathi,South,Furniture,TV Stand,15872,8,1904,2025,April
+1055,19/02/2025,Arun,West,Furniture,Table,29928,9,5985,2025,February
+1056,03/05/2025,Prakash,East,Furniture,Desk,8834,10,1766,2025,May
+1057,24/02/2025,Meena,South,Electronics,Mouse,9073,5,1179,2025,February
+1058,29/09/2025,Suresh,South,Office Supplies,Printer,4418,2,441,2025,September
+1059,10/09/2025,Kavya,South,Office Supplies,Marker,2470,3,444,2025,September
+1060,05/01/2025,Kavya,East,Furniture,Table,22620,10,1809,2025,January
+1061,28/12/2025,Sanjay,East,Electronics,Smartwatch,6218,2,1119,2025,December
+1062,10/01/2025,Deepa,West,Furniture,Shelf,2634,9,131,2025,January
+1063,29/09/2025,Vinod,West,Office Supplies,Printer,1975,4,375,2025,September
+1064,30/09/2025,Nisha,North,Electronics,Smartwatch,39896,10,7979,2025,September
+1065,15/03/2025,Gokul,West,Furniture,Bed,33275,2,4991,2025,March
+1066,24/12/2025,Reshma,North,Office Supplies,Paper,4255,1,680,2025,December
+1067,02/09/2025,Nisha,West,Furniture,Bookshelf,17260,7,3279,2025,September
+1068,07/08/2025,Naveen,West,Furniture,Desk,7758,4,620,2025,August
+1069,18/06/2025,Arun,South,Electronics,Mobile,58286,5,4662,2025,June
+1070,14/10/2025,Meena,South,Electronics,Monitor,40432,5,5256,2025,October
+1071,23/08/2025,Ramesh,South,Office Supplies,Notebook,850,9,144,2025,August
+1072,24/11/2025,Gokul,West,Office Supplies,Paper,6415,8,705,2025,November
+1073,09/12/2025,Sneha,West,Furniture,TV Stand,19221,3,2114,2025,December
+1074,16/11/2025,Asha,South,Electronics,Mouse,10164,9,1829,2025,November
+1075,30/07/2025,Priya,East,Electronics,SSD,49971,1,6995,2025,July
+1076,06/10/2025,Latha,West,Furniture,Desk,15172,2,3034,2025,October
+1077,23/09/2025,Asha,East,Electronics,Camera,53459,1,6415,2025,September
+1078,28/09/2025,Sneha,North,Electronics,Laptop,26576,3,1594,2025,September
+1079,05/02/2025,Prakash,West,Furniture,Bed,8071,9,1291,2025,February
+1080,08/04/2025,Latha,South,Electronics,SSD,12298,10,1598,2025,April
+1081,04/08/2025,Kavya,West,Office Supplies,Pen,9358,8,1122,2025,August
+1082,19/01/2025,Rahul,East,Furniture,Sofa,22945,7,2982,2025,January
+1083,17/03/2025,Gokul,West,Office Supplies,Stapler,1140,6,102,2025,March
+1084,04/01/2025,Renu,North,Electronics,Monitor,6957,5,834,2025,January
+1085,06/02/2025,Rahul,North,Furniture,Desk,28514,5,1710,2025,February
+1086,30/10/2025,Keerthi,North,Office Supplies,Files,7527,9,451,2025,October
+1087,01/09/2025,Gokul,West,Furniture,Desk,4444,1,444,2025,September
+1088,07/04/2025,Sneha,West,Electronics,Laptop,39201,3,3920,2025,April
+1089,11/04/2025,Pooja,West,Furniture,Chair,3845,9,692,2025,April
+1090,01/03/2025,Swathi,North,Electronics,Monitor,58161,5,5816,2025,March
+1091,23/03/2025,Ramesh,South,Electronics,Keyboard,29130,5,3204,2025,March
+1092,04/07/2025,Manoj,East,Furniture,Table,2808,7,196,2025,July
+1093,19/12/2025,Ramesh,South,Electronics,Smartwatch,27637,8,5527,2025,December
+1094,15/09/2025,Rahul,East,Furniture,Bed,33999,5,2379,2025,September
+1095,10/02/2025,Nisha,West,Office Supplies,Files,1292,5,206,2025,February
+1096,09/04/2025,Gokul,West,Furniture,Sofa,16789,9,2518,2025,April
+1097,19/05/2025,Harish,North,Electronics,Keyboard,11455,5,1030,2025,May
+1098,20/12/2025,Latha,North,Furniture,Chair,33271,6,1663,2025,December
+1099,07/10/2025,Kavya,East,Furniture,Shelf,19248,10,2694,2025,October
+1100,05/10/2025,Deepa,West,Electronics,Keyboard,21142,5,1479,2025,October
+1101,28/05/2025,Vinod,North,Office Supplies,Marker,3791,5,417,2025,May
+1102,11/01/2025,Sanjay,West,Furniture,Desk,2525,9,328,2025,January
+1103,15/07/2025,Ramesh,South,Office Supplies,Calculator,8998,3,989,2025,July
+1104,20/05/2025,Keerthi,East,Office Supplies,Pen,3551,5,497,2025,May
+1105,25/07/2025,Reshma,East,Furniture,Shelf,4267,10,384,2025,July
+1106,12/09/2025,Latha,West,Office Supplies,Printer,3383,4,270,2025,September
+1107,04/05/2025,Anjali,East,Office Supplies,Printer,3120,7,374,2025,May
+1108,03/07/2025,Arun,South,Electronics,Camera,9078,5,1815,2025,July
+1109,03/03/2025,Keerthi,West,Electronics,Mouse,47928,9,3834,2025,March
+1110,12/12/2025,Arun,East,Office Supplies,Marker,233,9,13,2025,December
+1111,28/12/2025,Manoj,East,Office Supplies,Envelope,5326,2,266,2025,December
+1112,01/11/2025,Prakash,South,Office Supplies,Printer,5999,1,479,2025,November
+1113,25/10/2025,Ajay,West,Office Supplies,Marker,9335,5,1773,2025,October
+1114,17/07/2025,Ramesh,North,Electronics,Monitor,1446,4,260,2025,July
+1115,03/08/2025,Sanjay,South,Furniture,Sofa,19305,7,3667,2025,August
+1116,04/02/2025,Vinod,South,Office Supplies,Calculator,6954,10,347,2025,February
+1117,30/09/2025,Pooja,South,Electronics,SSD,14835,2,2076,2025,September
+1118,30/01/2025,Anjali,South,Office Supplies,Calculator,394,1,78,2025,January
+1119,07/03/2025,Divya,South,Furniture,Shelf,33395,9,5343,2025,March
+1120,17/09/2025,Nisha,East,Office Supplies,Calculator,766,4,38,2025,September
+1121,11/02/2025,Ajay,East,Electronics,Camera,27382,1,4654,2025,February
+1122,12/03/2025,Deepa,West,Electronics,Mouse,41684,2,6669,2025,March
+1123,15/08/2025,Meena,East,Furniture,Desk,27202,6,4896,2025,August
+1124,10/01/2025,Karthik,South,Furniture,Cupboard,24616,5,4677,2025,January
+1125,10/02/2025,Reshma,East,Furniture,TV Stand,10434,3,1043,2025,February
+1126,19/12/2025,Rahul,North,Office Supplies,Files,326,3,32,2025,December
+1127,30/06/2025,Nisha,West,Office Supplies,Notebook,4453,6,445,2025,June
+1128,03/07/2025,Nisha,North,Electronics,Speaker,18711,8,1871,2025,July
+1129,29/03/2025,Arun,South,Electronics,Smartwatch,58036,10,3482,2025,March
+1130,11/06/2025,Keerthi,South,Electronics,Smartwatch,5062,1,607,2025,June
+1131,24/03/2025,Divya,North,Office Supplies,Printer,228,7,36,2025,March
+1132,20/10/2025,Harish,East,Office Supplies,Stapler,6109,6,1160,2025,October
+1133,21/11/2025,Nisha,West,Electronics,Tablet,30053,3,5409,2025,November
+1134,23/04/2025,Asha,West,Furniture,Table,4702,9,940,2025,April
+1135,23/01/2025,Naveen,North,Office Supplies,Files,6156,8,369,2025,January
+1136,05/06/2025,Priya,North,Office Supplies,Files,5830,5,349,2025,June
+1137,20/01/2025,Arun,North,Electronics,Tablet,23776,1,2139,2025,January
+1138,28/11/2025,Ramesh,West,Office Supplies,Envelope,4350,8,870,2025,November
+1139,24/07/2025,Nisha,East,Office Supplies,Paper,6999,5,1119,2025,July
+1140,30/08/2025,Manoj,North,Office Supplies,Stapler,8826,1,1500,2025,August
+1141,17/11/2025,Asha,North,Office Supplies,Marker,460,6,69,2025,November
+1142,17/04/2025,Kavya,South,Electronics,Headphones,52628,2,3683,2025,April
+1143,16/07/2025,Pooja,South,Office Supplies,Envelope,240,8,33,2025,July
+1144,20/03/2025,Renu,North,Office Supplies,Pen,3988,4,438,2025,March
+1145,18/01/2025,Ajay,East,Electronics,Mouse,16223,7,2595,2025,January
+1146,24/07/2025,Swathi,West,Office Supplies,Calculator,6438,1,836,2025,July
+1147,31/08/2025,Priya,North,Office Supplies,Marker,1798,3,215,2025,August
+1148,08/11/2025,Deepa,West,Electronics,Speaker,53109,3,10621,2025,November
+1149,24/01/2025,Manoj,East,Electronics,Smartwatch,46190,5,6004,2025,January
+1150,28/06/2025,Vinod,East,Office Supplies,Marker,9767,9,976,2025,June
+1151,19/09/2025,Swathi,West,Office Supplies,Printer,3120,6,156,2025,September
+1152,18/01/2025,Amit,South,Furniture,Shelf,22807,5,1824,2025,January
+1153,29/07/2025,Rahul,East,Furniture,Chair,27263,10,2453,2025,July
+1154,30/07/2025,Divya,South,Furniture,Sofa,22473,8,3595,2025,July
+1155,24/09/2025,Sanjay,East,Electronics,Monitor,32350,2,1941,2025,September
+1156,25/04/2025,Sanjay,East,Furniture,Shelf,1947,3,233,2025,April
+1157,17/08/2025,Naveen,West,Electronics,Camera,10087,4,1916,2025,August
+1158,06/01/2025,Meena,East,Office Supplies,Files,3181,7,254,2025,January
+1159,10/09/2025,Rahul,West,Furniture,TV Stand,10472,5,1151,2025,September
+1160,26/07/2025,Gokul,North,Furniture,Shelf,8380,3,921,2025,July
+1161,29/10/2025,Karthik,West,Office Supplies,Files,6484,10,583,2025,October
+1162,07/11/2025,Sanjay,South,Electronics,Monitor,37890,7,4546,2025,November
+1163,08/09/2025,Renu,West,Furniture,Bookshelf,1794,10,197,2025,September
+1164,19/08/2025,Manoj,South,Furniture,TV Stand,26509,1,4506,2025,August
+1165,25/11/2025,Sneha,South,Office Supplies,Calculator,2262,4,294,2025,November
+1166,07/03/2025,Deepa,North,Office Supplies,Paper,940,6,56,2025,March
+1167,24/06/2025,Vijay,West,Furniture,Sofa,7423,9,964,2025,June
+1168,23/01/2025,Reshma,North,Office Supplies,Calculator,6351,3,952,2025,January
+1169,20/01/2025,Ramesh,West,Furniture,Recliner,20335,4,1423,2025,January
+1170,07/09/2025,Suresh,North,Electronics,Camera,11347,4,1815,2025,September
+1171,26/07/2025,Renu,East,Office Supplies,Paper,2359,6,353,2025,July
+1172,22/04/2025,Arun,South,Electronics,Mobile,58805,10,10584,2025,April
+1173,28/08/2025,Nisha,North,Electronics,Monitor,29501,2,2950,2025,August
+1174,17/07/2025,Kavya,West,Furniture,Bed,32060,8,4488,2025,July
+1175,13/05/2025,Swathi,North,Office Supplies,Files,3528,8,352,2025,May
+1176,15/11/2025,Sanjay,South,Electronics,Mouse,26610,3,5322,2025,November
+1177,04/08/2025,Deepa,North,Furniture,Sofa,23992,2,4558,2025,August
+1178,02/03/2025,Keerthi,North,Furniture,Shelf,16749,4,1507,2025,March
+1179,31/12/2025,Ramesh,West,Electronics,Laptop,35217,3,7043,2025,December
+1180,28/04/2025,Karthik,West,Office Supplies,Envelope,1211,3,242,2025,April
+1181,25/12/2025,Rahul,East,Office Supplies,Pen,5727,6,859,2025,December
+1182,13/02/2025,Ramesh,South,Electronics,Speaker,15334,5,2300,2025,February
+1183,29/06/2025,Reshma,North,Furniture,Chair,29948,8,5390,2025,June
+1184,17/04/2025,Swathi,East,Office Supplies,Notebook,1070,2,74,2025,April
+1185,03/01/2025,Amit,South,Furniture,Cupboard,17214,2,1549,2025,January
+1186,31/05/2025,Prakash,South,Electronics,Monitor,7603,3,760,2025,May
+1187,09/10/2025,Sneha,South,Office Supplies,Printer,8092,5,809,2025,October
+1188,11/01/2025,Prakash,East,Electronics,Smartwatch,5609,10,729,2025,January
+1189,29/05/2025,Karthik,South,Office Supplies,Notebook,8570,9,857,2025,May
+1190,06/05/2025,Keerthi,South,Furniture,Table,2034,3,122,2025,May
+1191,19/10/2025,Asha,West,Furniture,Sofa,32286,5,3551,2025,October
+1192,14/10/2025,Sanjay,West,Office Supplies,Paper,8147,1,407,2025,October
+1193,21/12/2025,Gokul,South,Office Supplies,Stapler,7208,1,432,2025,December
+1194,02/01/2025,Priya,East,Furniture,Bookshelf,20645,9,3303,2025,January
+1195,24/01/2025,Pooja,West,Furniture,Sofa,1838,2,294,2025,January
+1196,27/03/2025,Karthik,East,Electronics,SSD,31946,3,5430,2025,March
+1197,09/02/2025,Priya,East,Electronics,Smartwatch,26729,2,1871,2025,February
+1198,09/11/2025,Priya,North,Office Supplies,Notebook,4158,3,665,2025,November
+1199,17/04/2025,Reshma,West,Furniture,Shelf,22384,7,3357,2025,April
+1200,18/09/2025,Nisha,West,Furniture,Bed,13333,5,1466,2025,September
+1201,18/06/2025,Divya,South,Furniture,Cupboard,2263,1,158,2025,June
+1202,04/10/2025,Reshma,East,Office Supplies,Stapler,2185,8,262,2025,October
+1203,18/09/2025,Sneha,South,Furniture,Bed,5108,3,1021,2025,September
+1204,08/03/2025,Kavya,East,Office Supplies,Envelope,4936,4,345,2025,March
+1205,29/12/2025,Gokul,North,Electronics,Smartwatch,17511,5,875,2025,December
+1206,31/01/2025,Karthik,North,Office Supplies,Marker,580,4,87,2025,January
+1207,13/11/2025,Deepa,North,Electronics,Keyboard,19953,5,1396,2025,November
+1208,09/07/2025,Asha,North,Electronics,Mouse,53186,4,10105,2025,July
+1209,14/11/2025,Sneha,West,Office Supplies,Paper,5103,4,510,2025,November
+1210,29/04/2025,Ramesh,South,Electronics,SSD,40000,1,6000,2025,April
+1211,20/09/2025,Manoj,North,Furniture,Bed,9976,2,498,2025,September
+1212,04/12/2025,Asha,East,Office Supplies,Marker,269,5,43,2025,December
+1213,08/04/2025,Priya,North,Furniture,Table,17968,4,1617,2025,April
+1214,06/11/2025,Divya,North,Electronics,Mouse,47751,5,7640,2025,November
+1215,06/05/2025,Rahul,North,Office Supplies,Calculator,1302,7,117,2025,May
+1216,28/12/2025,Reshma,East,Office Supplies,Stapler,1994,4,159,2025,December
+1217,06/11/2025,Priya,North,Furniture,Shelf,24388,3,3414,2025,November
+1218,26/10/2025,Keerthi,North,Office Supplies,Files,4101,5,287,2025,October
+1219,02/05/2025,Sneha,North,Furniture,Sofa,14536,9,2035,2025,May
+1220,26/10/2025,Harish,South,Furniture,Table,11423,3,1142,2025,October
+1221,14/10/2025,Divya,East,Furniture,Chair,31437,7,2829,2025,October
+1222,13/02/2025,Vinod,North,Electronics,Keyboard,2302,4,460,2025,February
+1223,28/03/2025,Nisha,East,Electronics,Mouse,28684,3,2581,2025,March
+1224,30/05/2025,Swathi,East,Electronics,Headphones,19414,10,3882,2025,May
+1225,11/02/2025,Naveen,East,Office Supplies,Calculator,5638,10,563,2025,February
+1226,03/12/2025,Manoj,North,Office Supplies,Notebook,1305,8,143,2025,December
+1227,10/03/2025,Suresh,East,Office Supplies,Pen,5451,9,436,2025,March
+1228,15/08/2025,Sneha,North,Furniture,Table,18135,9,1450,2025,August
+1229,12/12/2025,Vinod,South,Office Supplies,Marker,988,6,59,2025,December
+1230,27/11/2025,Meena,East,Office Supplies,Calculator,1576,4,173,2025,November
+1231,10/11/2025,Arun,North,Furniture,Cupboard,6766,4,541,2025,November
+1232,07/04/2025,Deepa,North,Electronics,Keyboard,25263,9,4042,2025,April
+1233,29/01/2025,Swathi,East,Furniture,Cupboard,34540,1,5181,2025,January
+1234,30/05/2025,Vinod,West,Office Supplies,Paper,8166,10,1551,2025,May
+1235,18/10/2025,Manoj,North,Electronics,Headphones,13146,4,1840,2025,October
+1236,22/12/2025,Ajay,West,Office Supplies,Pen,6587,3,1317,2025,December
+1237,28/03/2025,Prakash,North,Electronics,Monitor,56735,1,4538,2025,March
+1238,19/08/2025,Karthik,North,Electronics,Mouse,4633,7,509,2025,August
+1239,06/10/2025,Pooja,South,Electronics,Headphones,28905,1,4335,2025,October
+1240,13/08/2025,Sneha,West,Electronics,Laptop,53606,1,3752,2025,August
+1241,06/04/2025,Prakash,East,Electronics,Camera,30094,4,5717,2025,April
+1242,01/10/2025,Gokul,East,Electronics,Tablet,42655,8,6398,2025,October
+1243,27/05/2025,Naveen,West,Furniture,Table,11343,7,1474,2025,May
+1244,31/10/2025,Sneha,South,Office Supplies,Calculator,1867,8,130,2025,October
+1245,15/08/2025,Sneha,East,Office Supplies,Marker,9743,7,876,2025,August
+1246,22/11/2025,Sanjay,North,Electronics,Mouse,37018,3,6293,2025,November
+1247,19/04/2025,Harish,West,Electronics,Mobile,23765,6,2851,2025,April
+1248,21/11/2025,Kavya,East,Office Supplies,Pen,3013,9,241,2025,November
+1249,23/06/2025,Manoj,North,Office Supplies,Files,1204,2,192,2025,June
+1250,05/03/2025,Sneha,East,Office Supplies,Stapler,818,9,106,2025,March
+1251,02/08/2025,Anjali,North,Electronics,Mouse,43808,1,8323,2025,August
+1252,19/11/2025,Keerthi,South,Office Supplies,Calculator,3619,7,325,2025,November
+1253,21/06/2025,Vijay,West,Electronics,Keyboard,45711,10,8685,2025,June
+1254,14/08/2025,Suresh,North,Electronics,Tablet,33235,5,4985,2025,August
+1255,25/01/2025,Vijay,West,Office Supplies,Stapler,7711,6,1233,2025,January
+1256,10/02/2025,Deepa,West,Electronics,Laptop,51960,10,6754,2025,February
+1257,23/12/2025,Ramesh,East,Office Supplies,Files,6107,1,732,2025,December
+1258,21/07/2025,Swathi,North,Office Supplies,Stapler,2873,1,201,2025,July
+1259,17/10/2025,Meena,West,Office Supplies,Files,2360,9,448,2025,October
+1260,18/03/2025,Rahul,West,Office Supplies,Paper,8880,8,1509,2025,March
+1261,25/02/2025,Deepa,West,Electronics,Headphones,32776,8,2949,2025,February
+1262,22/11/2025,Karthik,West,Office Supplies,Notebook,6065,1,545,2025,November
+1263,31/08/2025,Priya,East,Furniture,Chair,27557,3,5235,2025,August
+1264,17/09/2025,Gokul,North,Electronics,Headphones,32184,2,2252,2025,September
+1265,23/09/2025,Reshma,South,Furniture,Table,2789,6,223,2025,September
+1266,27/07/2025,Latha,South,Office Supplies,Paper,2657,3,451,2025,July
+1267,03/03/2025,Prakash,North,Furniture,Chair,25625,9,3843,2025,March
+1268,22/03/2025,Divya,East,Office Supplies,Printer,912,1,63,2025,March
+1269,21/09/2025,Deepa,West,Electronics,Tablet,23312,4,2331,2025,September
+1270,06/06/2025,Meena,West,Office Supplies,Notebook,7114,9,1422,2025,June
+1271,28/01/2025,Prakash,West,Furniture,Desk,12202,4,2074,2025,January
+1272,06/06/2025,Prakash,South,Furniture,Recliner,30111,5,5118,2025,June
+1273,05/05/2025,Renu,South,Office Supplies,Paper,2707,10,351,2025,May
+1274,03/10/2025,Vijay,South,Furniture,Chair,34325,7,3089,2025,October
+1275,27/08/2025,Renu,West,Office Supplies,Printer,6925,4,1385,2025,August
+1276,23/03/2025,Divya,South,Office Supplies,Files,9425,4,942,2025,March
+1277,05/06/2025,Deepa,South,Electronics,SSD,46814,9,4213,2025,June
+1278,05/10/2025,Karthik,South,Office Supplies,Pen,9148,7,1738,2025,October
+1279,26/10/2025,Latha,South,Furniture,Desk,10136,1,709,2025,October
+1280,29/11/2025,Keerthi,West,Furniture,Bed,8302,7,830,2025,November
+1281,21/03/2025,Pooja,West,Electronics,Mobile,37755,4,6795,2025,March
+1282,21/07/2025,Amit,South,Electronics,SSD,45993,4,8278,2025,July
+1283,26/06/2025,Priya,South,Electronics,Keyboard,47425,5,6165,2025,June
+1284,18/03/2025,Reshma,South,Electronics,Keyboard,26755,4,2407,2025,March
+1285,21/07/2025,Manoj,East,Furniture,Recliner,7960,8,716,2025,July
+1286,01/09/2025,Meena,North,Electronics,Laptop,5665,1,453,2025,September
+1287,18/04/2025,Suresh,South,Electronics,Camera,45739,4,3201,2025,April
+1288,18/11/2025,Kavya,North,Electronics,Headphones,31740,8,6348,2025,November
+1289,20/12/2025,Nisha,West,Furniture,Table,18217,5,2732,2025,December
+1290,16/03/2025,Rahul,East,Office Supplies,Marker,6808,3,1361,2025,March
+1291,08/10/2025,Sanjay,South,Electronics,Tablet,55253,2,7182,2025,October
+1292,28/03/2025,Priya,North,Office Supplies,Pen,7074,5,1202,2025,March
+1293,29/10/2025,Kavya,West,Furniture,Chair,6322,10,442,2025,October
+1294,21/06/2025,Vijay,South,Furniture,Sofa,20062,4,2608,2025,June
+1295,12/10/2025,Amit,West,Office Supplies,Stapler,5851,10,877,2025,October
+1296,28/05/2025,Rahul,North,Electronics,Smartwatch,11076,2,996,2025,May
+1297,05/05/2025,Ajay,North,Electronics,Headphones,51441,7,8230,2025,May
+1298,28/04/2025,Harish,South,Furniture,Chair,3718,9,594,2025,April
+1299,28/10/2025,Ajay,North,Furniture,Shelf,3617,9,397,2025,October
+1300,02/11/2025,Keerthi,South,Office Supplies,Files,2952,6,590,2025,November
+1301,15/08/2025,Nisha,North,Office Supplies,Pen,7113,6,1351,2025,August
+1302,14/09/2025,Suresh,North,Electronics,Mobile,35500,8,5325,2025,September
+1303,28/02/2025,Swathi,West,Furniture,Sofa,34565,6,3456,2025,February
+1304,06/06/2025,Anjali,North,Office Supplies,Stapler,7853,10,471,2025,June
+1305,14/05/2025,Prakash,East,Electronics,Laptop,13267,2,2122,2025,May
+1306,04/01/2025,Divya,South,Office Supplies,Paper,6455,5,839,2025,January
+1307,10/03/2025,Priya,North,Furniture,Cupboard,4325,1,735,2025,March
+1308,01/02/2025,Sneha,East,Office Supplies,Notebook,2783,10,361,2025,February
+1309,14/12/2025,Arun,South,Furniture,Sofa,28573,3,1428,2025,December
+1310,22/05/2025,Ramesh,West,Furniture,Chair,17667,10,1413,2025,May
+1311,14/01/2025,Asha,West,Office Supplies,Paper,8540,3,1195,2025,January
+1312,04/07/2025,Kavya,North,Office Supplies,Stapler,6285,4,314,2025,July
+1313,07/06/2025,Anjali,West,Office Supplies,Printer,5612,7,954,2025,June
+1314,18/01/2025,Keerthi,East,Furniture,Bed,21250,7,2550,2025,January
+1315,27/08/2025,Sanjay,West,Furniture,Recliner,9019,2,631,2025,August
+1316,16/01/2025,Sanjay,South,Electronics,Smartwatch,25352,10,4309,2025,January
+1317,03/09/2025,Vijay,South,Furniture,TV Stand,5855,6,1053,2025,September
+1318,17/11/2025,Kavya,East,Furniture,Recliner,21379,1,2779,2025,November
+1319,16/10/2025,Priya,North,Office Supplies,Envelope,4344,2,434,2025,October
+1320,15/08/2025,Amit,West,Furniture,Recliner,24207,5,3388,2025,August
+1321,01/08/2025,Gokul,North,Office Supplies,Notebook,9222,7,645,2025,August
+1322,06/07/2025,Swathi,West,Office Supplies,Files,8526,7,937,2025,July
+1323,06/10/2025,Prakash,West,Office Supplies,Pen,5388,5,592,2025,October
+1324,30/11/2025,Sneha,North,Furniture,Table,32445,10,4866,2025,November
+1325,17/08/2025,Karthik,West,Electronics,Smartwatch,14721,8,1177,2025,August
+1326,25/11/2025,Vinod,West,Office Supplies,Stapler,1551,10,108,2025,November
+1327,08/01/2025,Deepa,West,Furniture,Bookshelf,3134,3,344,2025,January
+1328,10/04/2025,Manoj,South,Furniture,Chair,7081,5,1132,2025,April
+1329,15/06/2025,Pooja,East,Furniture,Desk,21803,6,1526,2025,June
+1330,15/12/2025,Nisha,North,Office Supplies,Printer,7068,4,1060,2025,December
+1331,02/12/2025,Asha,East,Electronics,Monitor,45057,4,9011,2025,December
+1332,25/08/2025,Pooja,South,Office Supplies,Notebook,9984,5,1297,2025,August
+1333,25/07/2025,Reshma,South,Electronics,Mobile,8774,5,1579,2025,July
+1334,29/11/2025,Gokul,East,Office Supplies,Calculator,1088,5,108,2025,November
+1335,09/05/2025,Manoj,West,Electronics,Mobile,47799,3,4779,2025,May
+1336,02/07/2025,Asha,East,Electronics,Mouse,5982,10,1196,2025,July
+1337,14/11/2025,Deepa,East,Furniture,Sofa,22667,1,4080,2025,November
+1338,31/07/2025,Priya,North,Electronics,Laptop,52460,5,5770,2025,July
+1339,22/06/2025,Nisha,West,Furniture,Bed,18998,4,3039,2025,June
+1340,08/02/2025,Reshma,South,Electronics,Speaker,39150,4,5481,2025,February
+1341,19/06/2025,Swathi,East,Furniture,Cupboard,5468,8,382,2025,June
+1342,17/02/2025,Keerthi,East,Furniture,Recliner,16583,6,1326,2025,February
+1343,06/05/2025,Vinod,North,Electronics,Headphones,56771,5,6812,2025,May
+1344,25/05/2025,Naveen,North,Office Supplies,Marker,3041,3,212,2025,May
+1345,22/11/2025,Ajay,West,Electronics,Laptop,45546,9,4554,2025,November
+1346,03/05/2025,Karthik,South,Furniture,Recliner,12887,9,2190,2025,May
+1347,09/05/2025,Renu,West,Office Supplies,Calculator,4734,3,852,2025,May
+1348,23/03/2025,Manoj,South,Electronics,Keyboard,40510,4,5266,2025,March
+1349,10/02/2025,Divya,North,Furniture,Recliner,11581,7,1042,2025,February
+1350,16/09/2025,Renu,East,Office Supplies,Files,8796,2,703,2025,September
+1351,03/01/2025,Pooja,East,Furniture,Bed,28063,1,1683,2025,January
+1352,04/07/2025,Swathi,North,Electronics,Tablet,50230,3,6027,2025,July
+1353,24/03/2025,Manoj,West,Electronics,SSD,7617,7,914,2025,March
+1354,09/04/2025,Ajay,East,Office Supplies,Marker,3014,8,180,2025,April
+1355,16/09/2025,Keerthi,West,Office Supplies,Paper,7228,4,795,2025,September
+1356,10/06/2025,Divya,East,Electronics,Laptop,19710,3,2759,2025,June
+1357,02/02/2025,Rahul,South,Office Supplies,Calculator,1530,10,306,2025,February
+1358,10/05/2025,Arun,South,Electronics,Keyboard,33987,8,5098,2025,May
+1359,10/06/2025,Nisha,West,Office Supplies,Envelope,3072,9,368,2025,June
+1360,28/08/2025,Swathi,East,Furniture,Shelf,25026,5,2502,2025,August
+1361,07/10/2025,Nisha,East,Furniture,TV Stand,9078,4,1270,2025,October
+1362,11/11/2025,Renu,East,Furniture,Chair,34621,5,6577,2025,November
+1363,13/11/2025,Vinod,West,Furniture,Sofa,28521,8,5133,2025,November
+1364,21/04/2025,Swathi,South,Electronics,Mobile,19042,7,1904,2025,April
+1365,05/04/2025,Renu,West,Furniture,Cupboard,3155,10,378,2025,April
+1366,09/12/2025,Suresh,East,Electronics,SSD,58347,6,11669,2025,December
+1367,01/12/2025,Vinod,West,Electronics,Smartwatch,19784,7,1582,2025,December
+1368,14/05/2025,Suresh,North,Office Supplies,Files,7937,9,1190,2025,May
+1369,27/08/2025,Prakash,South,Office Supplies,Files,5799,8,869,2025,August
+1370,09/11/2025,Deepa,East,Office Supplies,Envelope,1482,4,266,2025,November
+1371,07/03/2025,Reshma,East,Office Supplies,Pen,7620,2,762,2025,March
+1372,06/02/2025,Ajay,West,Office Supplies,Printer,3678,10,662,2025,February
+1373,12/02/2025,Manoj,South,Electronics,SSD,45197,5,8135,2025,February
+1374,23/12/2025,Kavya,East,Electronics,Keyboard,49112,1,8349,2025,December
+1375,20/03/2025,Priya,North,Electronics,Tablet,21442,2,2787,2025,March
+1376,21/11/2025,Latha,North,Office Supplies,Pen,5193,4,311,2025,November
+1377,09/06/2025,Vijay,West,Electronics,SSD,20375,7,3260,2025,June
+1378,30/11/2025,Swathi,West,Electronics,Speaker,3706,1,370,2025,November
+1379,25/06/2025,Sanjay,East,Electronics,Monitor,43401,4,7812,2025,June
+1380,09/10/2025,Harish,North,Furniture,Cupboard,34479,7,5516,2025,October
+1381,06/12/2025,Manoj,East,Furniture,Recliner,15638,7,2502,2025,December
+1382,13/01/2025,Prakash,South,Electronics,Tablet,22729,4,2500,2025,January
+1383,14/03/2025,Deepa,East,Electronics,Speaker,58113,4,7554,2025,March
+1384,31/01/2025,Deepa,North,Office Supplies,Envelope,837,5,66,2025,January
+1385,10/12/2025,Arun,South,Office Supplies,Pen,6388,1,319,2025,December
+1386,27/10/2025,Renu,East,Office Supplies,Marker,8526,6,1364,2025,October
+1387,15/12/2025,Ajay,South,Office Supplies,Envelope,9054,3,1629,2025,December
+1388,07/12/2025,Vinod,East,Electronics,Keyboard,29274,6,1756,2025,December
+1389,17/02/2025,Ajay,West,Furniture,Desk,17192,1,3094,2025,February
+1390,31/05/2025,Rahul,South,Furniture,TV Stand,2176,10,391,2025,May
+1391,14/08/2025,Sneha,West,Furniture,Recliner,1929,6,289,2025,August
+1392,30/08/2025,Vinod,North,Office Supplies,Printer,3668,3,733,2025,August
+1393,20/04/2025,Asha,South,Electronics,Mouse,50611,5,6579,2025,April
+1394,05/02/2025,Sanjay,West,Office Supplies,Notebook,9813,1,981,2025,February
+1395,07/11/2025,Latha,South,Office Supplies,Paper,422,7,59,2025,November
+1396,07/05/2025,Anjali,North,Furniture,Table,24158,4,2174,2025,May
+1397,21/02/2025,Swathi,South,Office Supplies,Paper,8183,9,490,2025,February
+1398,11/08/2025,Keerthi,South,Electronics,Keyboard,56687,9,5668,2025,August
+1399,09/04/2025,Renu,North,Office Supplies,Calculator,7683,2,1459,2025,April
+1400,19/09/2025,Renu,West,Furniture,Desk,3660,7,732,2025,September
+1401,10/05/2025,Naveen,South,Office Supplies,Stapler,4989,8,548,2025,May
+1402,04/08/2025,Pooja,West,Furniture,Recliner,25112,8,3013,2025,August
+1403,31/01/2025,Harish,East,Furniture,TV Stand,10372,2,829,2025,January
+1404,21/04/2025,Vinod,North,Electronics,Speaker,43639,4,4800,2025,April
+1405,14/09/2025,Vijay,North,Electronics,Laptop,6005,7,360,2025,September
+1406,16/04/2025,Arun,South,Office Supplies,Notebook,1832,5,109,2025,April
+1407,20/11/2025,Asha,West,Electronics,Tablet,32505,2,5200,2025,November
+1408,27/08/2025,Prakash,North,Electronics,Mouse,10595,7,635,2025,August
+1409,22/11/2025,Ramesh,South,Office Supplies,Calculator,1705,10,85,2025,November
+1410,18/05/2025,Ramesh,West,Office Supplies,Files,9473,6,1515,2025,May
+1411,22/02/2025,Sanjay,East,Electronics,Laptop,53257,1,9586,2025,February
+1412,20/04/2025,Ajay,East,Office Supplies,Calculator,4178,10,459,2025,April
+1413,23/06/2025,Divya,North,Office Supplies,Calculator,2494,10,374,2025,June
+1414,10/06/2025,Vijay,South,Office Supplies,Stapler,6294,6,944,2025,June
+1415,30/12/2025,Renu,North,Office Supplies,Printer,3253,3,618,2025,December
+1416,21/01/2025,Pooja,East,Furniture,Shelf,31775,7,3495,2025,January
+1417,09/10/2025,Pooja,East,Office Supplies,Stapler,8540,5,512,2025,October
+1418,28/02/2025,Sanjay,East,Office Supplies,Stapler,9718,5,1166,2025,February
+1419,14/10/2025,Arun,North,Office Supplies,Paper,9212,2,1473,2025,October
+1420,26/04/2025,Anjali,North,Electronics,Smartwatch,30678,2,2147,2025,April
+1421,12/09/2025,Arun,North,Office Supplies,Stapler,1948,1,350,2025,September
+1422,18/04/2025,Asha,East,Office Supplies,Files,2113,1,274,2025,April
+1423,05/05/2025,Divya,East,Electronics,Camera,31452,2,6290,2025,May
+1424,04/03/2025,Divya,West,Electronics,Mobile,52836,10,6340,2025,March
+1425,21/08/2025,Vinod,North,Furniture,Desk,8558,7,1626,2025,August
+1426,05/08/2025,Asha,East,Electronics,Mouse,31438,6,4715,2025,August
+1427,13/10/2025,Deepa,North,Electronics,Mouse,26093,8,4174,2025,October
+1428,01/06/2025,Naveen,North,Office Supplies,Pen,9778,6,880,2025,June
+1429,15/09/2025,Keerthi,South,Electronics,Monitor,22373,8,4027,2025,September
+1430,06/03/2025,Vinod,East,Office Supplies,Pen,5796,7,753,2025,March
+1431,13/01/2025,Priya,East,Electronics,Mouse,34950,9,4194,2025,January
+1432,30/06/2025,Deepa,West,Furniture,TV Stand,22764,6,1138,2025,June
+1433,20/08/2025,Latha,East,Office Supplies,Paper,8604,4,1290,2025,August
+1434,17/07/2025,Nisha,East,Furniture,Recliner,6193,1,557,2025,July
+1435,07/12/2025,Ajay,South,Electronics,Headphones,5263,8,789,2025,December
+1436,14/05/2025,Vijay,West,Furniture,Shelf,8476,7,1610,2025,May
+1437,20/06/2025,Karthik,North,Office Supplies,Marker,9824,2,491,2025,June
+1438,21/09/2025,Kavya,West,Furniture,Shelf,13924,1,2088,2025,September
+1439,22/11/2025,Manoj,South,Furniture,Shelf,25448,3,2290,2025,November
+1440,07/06/2025,Latha,North,Furniture,Bed,29179,7,5835,2025,June
+1441,27/11/2025,Vijay,South,Furniture,Bed,3937,10,196,2025,November
+1442,16/06/2025,Ramesh,East,Electronics,Keyboard,12692,5,761,2025,June
+1443,09/07/2025,Latha,East,Electronics,Mobile,42466,7,5520,2025,July
+1444,31/07/2025,Arun,South,Electronics,Keyboard,54191,10,6502,2025,July
+1445,21/01/2025,Amit,West,Furniture,Recliner,6020,7,602,2025,January
+1446,21/09/2025,Keerthi,West,Office Supplies,Paper,7946,2,1430,2025,September
+1447,11/05/2025,Sanjay,East,Electronics,Speaker,40394,10,3635,2025,May
+1448,27/10/2025,Renu,East,Office Supplies,Stapler,6443,7,1159,2025,October
+1449,29/06/2025,Keerthi,East,Electronics,SSD,22143,5,3542,2025,June
+1450,25/02/2025,Arun,North,Electronics,Laptop,57521,10,8052,2025,February
+1451,13/08/2025,Swathi,West,Electronics,Monitor,26993,8,2699,2025,August
+1452,06/04/2025,Deepa,South,Furniture,Sofa,16846,5,2189,2025,April
+1453,03/10/2025,Reshma,North,Furniture,Chair,16084,2,2573,2025,October
+1454,11/02/2025,Divya,North,Electronics,Camera,54065,9,4865,2025,February
+1455,25/12/2025,Vinod,South,Furniture,Bed,13287,8,2391,2025,December
+1456,18/07/2025,Prakash,East,Office Supplies,Notebook,971,1,145,2025,July
+1457,28/11/2025,Reshma,North,Furniture,Recliner,25930,8,4408,2025,November
+1458,07/09/2025,Sanjay,East,Furniture,Sofa,26839,5,4562,2025,September
+1459,15/07/2025,Prakash,North,Furniture,Cupboard,14770,7,1181,2025,July
+1460,18/02/2025,Karthik,South,Electronics,Headphones,16915,3,1860,2025,February
+1461,28/01/2025,Karthik,North,Office Supplies,Notebook,2645,6,423,2025,January
+1462,12/04/2025,Swathi,North,Furniture,Chair,26451,7,3438,2025,April
+1463,18/02/2025,Ramesh,West,Office Supplies,Printer,8749,10,1749,2025,February
+1464,28/03/2025,Kavya,North,Furniture,Desk,13100,8,2358,2025,March
+1465,15/03/2025,Vinod,West,Electronics,SSD,36776,4,6251,2025,March
+1466,01/09/2025,Priya,South,Office Supplies,Calculator,9425,5,1602,2025,September
+1467,29/08/2025,Deepa,South,Office Supplies,Calculator,8603,8,1204,2025,August
+1468,13/06/2025,Karthik,South,Office Supplies,Marker,3396,7,305,2025,June
+1469,08/10/2025,Deepa,West,Office Supplies,Pen,6741,4,1011,2025,October
+1470,10/11/2025,Ramesh,North,Electronics,Laptop,6681,5,868,2025,November
+1471,19/09/2025,Karthik,West,Electronics,Tablet,23916,8,4065,2025,September
+1472,19/03/2025,Gokul,North,Furniture,Sofa,28951,8,4053,2025,March
+1473,03/06/2025,Pooja,West,Electronics,SSD,48306,1,7728,2025,June
+1474,24/07/2025,Pooja,West,Furniture,Bookshelf,2721,3,380,2025,July
+1475,21/04/2025,Prakash,East,Furniture,Recliner,27144,8,4614,2025,April
+1476,19/11/2025,Harish,South,Electronics,Camera,15172,1,2427,2025,November
+1477,08/09/2025,Latha,West,Office Supplies,Pen,8238,2,1235,2025,September
+1478,18/08/2025,Latha,West,Furniture,Chair,12446,8,1493,2025,August
+1479,28/08/2025,Vijay,South,Furniture,Chair,21329,3,1493,2025,August
+1480,02/10/2025,Amit,North,Office Supplies,Envelope,4953,3,842,2025,October
+1481,10/01/2025,Naveen,South,Office Supplies,Pen,5487,4,548,2025,January
+1482,21/08/2025,Ajay,North,Electronics,Headphones,14040,8,1544,2025,August
+1483,20/07/2025,Naveen,West,Furniture,TV Stand,30706,7,4298,2025,July
+1484,27/08/2025,Latha,North,Electronics,Headphones,38812,4,4269,2025,August
+1485,31/12/2025,Latha,West,Office Supplies,Stapler,2142,8,171,2025,December
+1486,29/01/2025,Keerthi,North,Office Supplies,Calculator,2604,9,260,2025,January
+1487,07/10/2025,Vinod,North,Furniture,Bookshelf,2995,7,599,2025,October
+1488,02/07/2025,Priya,East,Electronics,Mouse,11661,1,2098,2025,July
+1489,15/04/2025,Renu,North,Furniture,Recliner,25882,2,2329,2025,April
+1490,08/03/2025,Gokul,South,Office Supplies,Pen,3009,1,270,2025,March
+1491,29/08/2025,Pooja,South,Furniture,Cupboard,30841,4,6168,2025,August
+1492,08/08/2025,Arun,South,Furniture,Recliner,24586,3,1475,2025,August
+1493,25/08/2025,Rahul,North,Electronics,Monitor,26014,2,2601,2025,August
+1494,01/08/2025,Manoj,East,Office Supplies,Stapler,6381,5,319,2025,August
+1495,23/10/2025,Swathi,South,Electronics,Monitor,5624,4,843,2025,October
+1496,07/03/2025,Vijay,East,Electronics,Keyboard,23892,6,2628,2025,March
+1497,16/11/2025,Meena,North,Furniture,Bed,34833,2,6966,2025,November
+1498,24/04/2025,Ramesh,West,Furniture,Bookshelf,22944,5,3441,2025,April
+1499,20/09/2025,Keerthi,North,Electronics,Mouse,5879,6,764,2025,September
+1500,30/01/2025,Keerthi,West,Electronics,Mouse,30991,6,4958,2025,January
+1501,27/03/2025,Rahul,East,Electronics,Camera,34716,5,4513,2025,March
+1502,14/06/2025,Prakash,South,Office Supplies,Paper,7327,4,1099,2025,June
+1503,05/09/2025,Priya,West,Electronics,Laptop,39540,7,3163,2025,September
+1504,11/09/2025,Harish,South,Furniture,Bed,29058,9,5811,2025,September
+1505,17/07/2025,Harish,West,Furniture,Chair,13182,4,1318,2025,July
+1506,16/07/2025,Sneha,South,Electronics,Tablet,5473,7,547,2025,July
+1507,11/06/2025,Ajay,West,Furniture,Recliner,13967,4,1117,2025,June
+1508,22/02/2025,Ramesh,West,Office Supplies,Stapler,6624,9,728,2025,February
+1509,30/01/2025,Vinod,North,Office Supplies,Paper,4075,7,774,2025,January
+1510,21/09/2025,Ramesh,West,Furniture,Recliner,20680,4,2688,2025,September
+1511,05/03/2025,Kavya,North,Electronics,Headphones,24227,4,2664,2025,March
+1512,26/04/2025,Keerthi,North,Furniture,Recliner,15401,10,1078,2025,April
+1513,05/03/2025,Ajay,South,Electronics,Tablet,30881,7,4323,2025,March
+1514,28/08/2025,Manoj,South,Office Supplies,Notebook,7829,3,1330,2025,August
+1515,02/08/2025,Latha,West,Furniture,Desk,11272,4,1803,2025,August
+1516,17/04/2025,Reshma,East,Electronics,Tablet,17075,3,2902,2025,April
+1517,24/10/2025,Vijay,South,Electronics,Mobile,16759,8,2346,2025,October
+1518,21/09/2025,Karthik,North,Electronics,Smartwatch,43215,3,7778,2025,September
+1519,01/03/2025,Anjali,West,Furniture,Chair,22598,3,1355,2025,March
+1520,11/08/2025,Nisha,North,Furniture,Recliner,20859,2,3754,2025,August
+1521,31/10/2025,Divya,East,Office Supplies,Stapler,1713,10,171,2025,October
+1522,20/01/2025,Nisha,North,Electronics,Laptop,58145,2,6977,2025,January
+1523,21/09/2025,Kavya,East,Furniture,Cupboard,9118,6,1094,2025,September
+1524,08/04/2025,Swathi,West,Furniture,Bed,3532,5,353,2025,April
+1525,27/08/2025,Harish,West,Furniture,Table,12946,9,1035,2025,August
+1526,20/11/2025,Asha,East,Electronics,Smartwatch,21084,9,4216,2025,November
+1527,30/03/2025,Gokul,South,Furniture,Bed,4088,3,367,2025,March
+1528,15/11/2025,Kavya,South,Electronics,Headphones,14708,9,1617,2025,November
+1529,18/12/2025,Manoj,South,Electronics,Monitor,14006,4,1120,2025,December
+1530,19/12/2025,Prakash,North,Electronics,SSD,8823,9,1323,2025,December
+1531,27/12/2025,Swathi,East,Furniture,Table,6950,4,417,2025,December
+1532,19/05/2025,Vinod,East,Electronics,Keyboard,40199,4,5627,2025,May
+1533,06/01/2025,Arun,North,Furniture,Recliner,17025,3,2213,2025,January
+1534,15/04/2025,Pooja,East,Electronics,SSD,17780,2,889,2025,April
+1535,15/09/2025,Sneha,North,Furniture,Bookshelf,25126,7,4773,2025,September
+1536,26/04/2025,Karthik,West,Electronics,Monitor,9211,7,736,2025,April
+1537,16/07/2025,Ramesh,North,Electronics,SSD,18247,3,3466,2025,July
+1538,04/05/2025,Ajay,West,Furniture,Sofa,7225,8,722,2025,May
+1539,31/05/2025,Suresh,North,Electronics,Smartwatch,40635,7,4469,2025,May
+1540,22/03/2025,Rahul,South,Electronics,Mobile,35005,4,5600,2025,March
+1541,29/09/2025,Prakash,South,Electronics,Mouse,14483,8,2751,2025,September
+1542,07/06/2025,Reshma,South,Furniture,Table,1636,10,212,2025,June
+1543,03/05/2025,Kavya,South,Electronics,Mobile,38439,5,7303,2025,May
+1544,24/12/2025,Vinod,East,Electronics,Tablet,47284,5,3782,2025,December
+1545,30/05/2025,Meena,East,Office Supplies,Paper,5222,9,365,2025,May
+1546,17/07/2025,Latha,North,Office Supplies,Paper,7836,8,1175,2025,July
+1547,08/01/2025,Renu,South,Office Supplies,Stapler,6864,4,960,2025,January
+1548,05/08/2025,Arun,East,Electronics,Camera,30251,2,3630,2025,August
+1549,23/07/2025,Meena,East,Electronics,Speaker,20115,4,3620,2025,July
+1550,10/11/2025,Meena,East,Electronics,Headphones,43718,6,6120,2025,November
+1551,07/07/2025,Priya,South,Office Supplies,Envelope,7160,10,1432,2025,July
+1552,13/03/2025,Ajay,South,Furniture,Sofa,25494,5,3314,2025,March
+1553,13/11/2025,Ajay,South,Furniture,Cupboard,15472,4,2320,2025,November
+1554,16/11/2025,Priya,West,Furniture,Bed,3550,3,426,2025,November
+1555,06/07/2025,Suresh,North,Electronics,Mouse,43361,4,4769,2025,July
+1556,11/02/2025,Rahul,North,Office Supplies,Notebook,9507,10,1426,2025,February
+1557,20/12/2025,Vinod,North,Electronics,Speaker,48887,10,8310,2025,December
+1558,02/10/2025,Ajay,East,Electronics,Monitor,33789,7,2703,2025,October
+1559,31/07/2025,Kavya,East,Office Supplies,Notebook,8101,2,567,2025,July
+1560,17/02/2025,Sneha,North,Furniture,Shelf,33411,6,3341,2025,February
+1561,27/07/2025,Priya,East,Office Supplies,Stapler,2983,1,387,2025,July
+1562,05/12/2025,Naveen,West,Office Supplies,Printer,7093,3,567,2025,December
+1563,18/10/2025,Prakash,East,Office Supplies,Pen,7402,5,518,2025,October
+1564,15/03/2025,Nisha,West,Electronics,Smartwatch,58261,6,7573,2025,March
+1565,07/08/2025,Naveen,North,Electronics,Smartwatch,39600,4,1980,2025,August
+1566,11/02/2025,Gokul,North,Office Supplies,Envelope,1805,9,180,2025,February
+1567,05/09/2025,Reshma,South,Furniture,Table,2704,4,270,2025,September
+1568,27/12/2025,Vinod,East,Electronics,Speaker,13623,9,1362,2025,December
+1569,27/11/2025,Amit,East,Office Supplies,Paper,5020,3,1004,2025,November
+1570,12/04/2025,Divya,West,Furniture,Bookshelf,7941,9,1429,2025,April
+1571,18/12/2025,Sneha,South,Furniture,Shelf,24820,9,1241,2025,December
+1572,02/03/2025,Naveen,North,Office Supplies,Paper,5344,10,587,2025,March
+1573,11/11/2025,Vijay,South,Electronics,Keyboard,50392,8,3527,2025,November
+1574,20/01/2025,Ajay,South,Office Supplies,Pen,1310,3,222,2025,January
+1575,24/05/2025,Ramesh,West,Furniture,Desk,18150,5,2904,2025,May
+1576,01/03/2025,Asha,North,Office Supplies,Notebook,3901,1,624,2025,March
+1577,30/11/2025,Naveen,North,Office Supplies,Envelope,1840,3,312,2025,November
+1578,04/03/2025,Nisha,East,Furniture,Desk,23119,7,2774,2025,March
+1579,23/10/2025,Kavya,North,Furniture,Shelf,21859,5,1967,2025,October
+1580,22/06/2025,Prakash,East,Furniture,Bookshelf,5479,6,712,2025,June
+1581,02/11/2025,Karthik,South,Furniture,Bed,7653,3,765,2025,November
+1582,27/03/2025,Suresh,North,Electronics,Tablet,24185,4,1209,2025,March
+1583,19/01/2025,Latha,North,Electronics,Laptop,27865,3,5015,2025,January
+1584,05/03/2025,Keerthi,South,Electronics,Headphones,27288,10,2455,2025,March
+1585,07/01/2025,Deepa,East,Furniture,Shelf,3438,10,206,2025,January
+1586,24/05/2025,Rahul,East,Office Supplies,Files,9437,2,849,2025,May
+1587,08/05/2025,Sanjay,West,Office Supplies,Paper,837,7,150,2025,May
+1588,03/02/2025,Suresh,South,Office Supplies,Printer,8626,9,517,2025,February
+1589,25/06/2025,Vijay,West,Office Supplies,Paper,1978,1,158,2025,June
+1590,25/10/2025,Pooja,East,Furniture,Table,14914,5,1043,2025,October
+1591,23/09/2025,Naveen,East,Furniture,TV Stand,3047,8,426,2025,September
+1592,29/10/2025,Reshma,West,Furniture,Sofa,29225,8,1461,2025,October
+1593,14/09/2025,Suresh,East,Electronics,Headphones,52614,6,9470,2025,September
+1594,25/09/2025,Nisha,East,Electronics,Camera,48131,9,2406,2025,September
+1595,22/07/2025,Ajay,South,Furniture,Chair,26470,1,2911,2025,July
+1596,05/09/2025,Ramesh,West,Electronics,Laptop,40237,5,5633,2025,September
+1597,13/10/2025,Renu,South,Office Supplies,Stapler,9065,5,543,2025,October
+1598,11/10/2025,Vijay,North,Office Supplies,Printer,649,10,77,2025,October
+1599,01/06/2025,Anjali,West,Furniture,Bed,33282,9,6656,2025,June
+1600,14/02/2025,Ajay,North,Furniture,Shelf,4601,6,506,2025,February
+1601,07/08/2025,Swathi,East,Electronics,Mouse,38717,8,3097,2025,August
+1602,07/03/2025,Vinod,West,Furniture,Bed,26700,6,5073,2025,March
+1603,21/04/2025,Ajay,West,Furniture,Table,11807,7,1298,2025,April
+1604,21/12/2025,Deepa,North,Furniture,Recliner,11018,4,1873,2025,December
+1605,17/09/2025,Rahul,North,Furniture,TV Stand,3806,8,190,2025,September
+1606,06/02/2025,Pooja,East,Office Supplies,Envelope,5271,10,685,2025,February
+1607,01/07/2025,Meena,East,Office Supplies,Envelope,4763,10,381,2025,July
+1608,05/09/2025,Karthik,North,Furniture,Table,32549,3,1952,2025,September
+1609,05/07/2025,Vijay,West,Electronics,Monitor,59528,7,4762,2025,July
+1610,15/10/2025,Manoj,North,Furniture,TV Stand,21739,9,3913,2025,October
+1611,09/01/2025,Gokul,North,Furniture,Table,33151,9,1989,2025,January
+1612,29/05/2025,Arun,North,Electronics,Keyboard,42232,7,5067,2025,May
+1613,23/07/2025,Kavya,East,Electronics,Speaker,3692,8,701,2025,July
+1614,17/08/2025,Vijay,North,Office Supplies,Stapler,5860,2,879,2025,August
+1615,05/03/2025,Latha,South,Furniture,Sofa,21039,1,1683,2025,March
+1616,05/04/2025,Nisha,West,Furniture,TV Stand,22932,4,4586,2025,April
+1617,19/08/2025,Gokul,West,Office Supplies,Envelope,6508,9,780,2025,August
+1618,08/06/2025,Rahul,North,Furniture,Table,18540,5,2410,2025,June
+1619,22/12/2025,Vijay,West,Office Supplies,Calculator,9337,3,466,2025,December
+1620,10/02/2025,Arun,East,Furniture,Table,29669,7,3856,2025,February
+1621,11/08/2025,Deepa,South,Furniture,Desk,30017,8,1801,2025,August
+1622,16/08/2025,Amit,South,Office Supplies,Stapler,8464,1,677,2025,August
+1623,04/11/2025,Meena,South,Furniture,Desk,5978,8,1016,2025,November
+1624,22/08/2025,Suresh,North,Furniture,Chair,3139,6,408,2025,August
+1625,28/09/2025,Karthik,South,Office Supplies,Printer,4642,5,603,2025,September
+1626,11/09/2025,Kavya,East,Furniture,Table,22570,1,2257,2025,September
+1627,17/04/2025,Kavya,North,Office Supplies,Calculator,1192,8,166,2025,April
+1628,27/04/2025,Suresh,East,Electronics,Camera,8337,5,1667,2025,April
+1629,11/12/2025,Sanjay,North,Electronics,Camera,29935,3,3592,2025,December
+1630,08/10/2025,Ramesh,North,Furniture,Chair,30754,2,1537,2025,October
+1631,11/12/2025,Manoj,West,Electronics,Camera,46186,10,7851,2025,December
+1632,02/04/2025,Vinod,East,Electronics,Camera,41457,10,5389,2025,April
+1633,05/12/2025,Renu,North,Electronics,Laptop,47008,3,7991,2025,December
+1634,06/10/2025,Sanjay,South,Electronics,Mouse,17937,8,1255,2025,October
+1635,12/12/2025,Deepa,West,Furniture,Recliner,8140,10,488,2025,December
+1636,20/10/2025,Vinod,East,Furniture,Cupboard,22679,2,3401,2025,October
+1637,11/08/2025,Harish,West,Office Supplies,Files,786,1,86,2025,August
+1638,01/08/2025,Amit,South,Furniture,Shelf,30327,7,2729,2025,August
+1639,09/02/2025,Suresh,West,Office Supplies,Files,500,3,35,2025,February
+1640,16/09/2025,Manoj,West,Furniture,Desk,8314,8,1163,2025,September
+1641,21/04/2025,Prakash,West,Electronics,Laptop,37939,2,3793,2025,April
+1642,20/08/2025,Meena,North,Office Supplies,Calculator,8569,2,1199,2025,August
+1643,08/02/2025,Divya,South,Electronics,Laptop,36979,3,5546,2025,February
+1644,17/11/2025,Meena,North,Office Supplies,Notebook,8705,9,1741,2025,November
+1645,03/03/2025,Divya,South,Office Supplies,Paper,3479,7,521,2025,March
+1646,02/01/2025,Sneha,South,Furniture,Shelf,27286,5,4638,2025,January
+1647,05/07/2025,Ajay,South,Electronics,Speaker,51525,4,4122,2025,July
+1648,07/02/2025,Manoj,East,Office Supplies,Stapler,7289,3,510,2025,February
+1649,14/01/2025,Prakash,South,Furniture,Chair,27372,2,4379,2025,January
+1650,04/10/2025,Suresh,North,Electronics,Keyboard,2190,10,284,2025,October
+1651,14/09/2025,Latha,North,Electronics,Mobile,18939,4,1325,2025,September
+1652,17/09/2025,Ramesh,North,Office Supplies,Marker,8047,7,1126,2025,September
+1653,11/12/2025,Rahul,South,Electronics,Headphones,27189,3,4894,2025,December
+1654,30/08/2025,Renu,North,Furniture,Bed,32457,7,2271,2025,August
+1655,30/09/2025,Ajay,South,Electronics,Speaker,32393,7,1943,2025,September
+1656,27/12/2025,Pooja,North,Office Supplies,Envelope,1823,9,291,2025,December
+1657,10/01/2025,Harish,East,Office Supplies,Files,6606,1,858,2025,January
+1658,10/04/2025,Naveen,East,Electronics,Mouse,52009,1,3640,2025,April
+1659,29/06/2025,Manoj,South,Furniture,Sofa,16403,10,1804,2025,June
+1660,03/08/2025,Asha,South,Office Supplies,Stapler,3421,2,684,2025,August
+1661,07/09/2025,Nisha,North,Furniture,Shelf,6531,7,587,2025,September
+1662,05/11/2025,Sneha,South,Electronics,Laptop,19019,6,2092,2025,November
+1663,15/01/2025,Amit,West,Electronics,Laptop,32661,1,1959,2025,January
+1664,04/11/2025,Harish,West,Electronics,Monitor,56241,2,7873,2025,November
+1665,23/01/2025,Prakash,South,Electronics,Mobile,33010,2,2310,2025,January
+1666,05/01/2025,Deepa,East,Office Supplies,Calculator,8181,2,490,2025,January
+1667,14/03/2025,Vinod,North,Furniture,TV Stand,6246,4,437,2025,March
+1668,15/02/2025,Pooja,North,Electronics,Keyboard,32862,5,5257,2025,February
+1669,08/08/2025,Keerthi,West,Furniture,Chair,3254,7,325,2025,August
+1670,30/03/2025,Swathi,South,Electronics,Smartwatch,2366,8,141,2025,March
+1671,15/05/2025,Sanjay,South,Furniture,Sofa,22856,4,4571,2025,May
+1672,27/01/2025,Harish,West,Office Supplies,Notebook,861,6,154,2025,January
+1673,06/12/2025,Priya,North,Office Supplies,Printer,6911,3,760,2025,December
+1674,11/02/2025,Priya,South,Office Supplies,Pen,3587,3,251,2025,February
+1675,24/09/2025,Vinod,East,Office Supplies,Stapler,3025,10,363,2025,September
+1676,05/11/2025,Ajay,East,Furniture,Desk,19870,8,1987,2025,November
+1677,21/01/2025,Arun,North,Furniture,Table,32972,3,2967,2025,January
+1678,29/04/2025,Kavya,East,Furniture,Bed,13007,9,1690,2025,April
+1679,06/10/2025,Karthik,West,Furniture,Desk,24687,8,3456,2025,October
+1680,27/05/2025,Vijay,North,Office Supplies,Printer,5181,8,673,2025,May
+1681,15/05/2025,Vijay,East,Electronics,Mouse,25970,1,3116,2025,May
+1682,21/09/2025,Ajay,North,Electronics,Mouse,40644,3,2845,2025,September
+1683,24/01/2025,Pooja,West,Furniture,Bookshelf,34781,2,6608,2025,January
+1684,10/10/2025,Sanjay,South,Furniture,Bookshelf,8713,2,435,2025,October
+1685,23/09/2025,Gokul,East,Furniture,Table,20946,7,1047,2025,September
+1686,22/11/2025,Gokul,West,Electronics,Laptop,43106,5,5172,2025,November
+1687,08/07/2025,Arun,South,Office Supplies,Marker,738,1,103,2025,July
+1688,26/08/2025,Asha,West,Office Supplies,Paper,7888,7,631,2025,August
+1689,12/04/2025,Renu,South,Furniture,Chair,32505,9,2600,2025,April
+1690,22/02/2025,Prakash,South,Furniture,Cupboard,33337,8,6334,2025,February
+1691,08/08/2025,Naveen,East,Office Supplies,Calculator,8782,3,439,2025,August
+1692,25/07/2025,Ajay,South,Office Supplies,Files,3058,10,305,2025,July
+1693,19/03/2025,Deepa,South,Office Supplies,Notebook,7218,3,938,2025,March
+1694,15/06/2025,Prakash,North,Office Supplies,Calculator,1579,3,205,2025,June
+1695,14/04/2025,Priya,East,Office Supplies,Paper,6009,9,600,2025,April
+1696,22/01/2025,Vinod,South,Furniture,Chair,7459,3,372,2025,January
+1697,07/10/2025,Karthik,South,Office Supplies,Marker,9958,8,1493,2025,October
+1698,08/10/2025,Gokul,West,Electronics,Speaker,39333,9,1966,2025,October
+1699,18/11/2025,Gokul,South,Electronics,Monitor,43430,8,5645,2025,November
+1700,01/10/2025,Nisha,East,Furniture,Chair,31594,8,4423,2025,October
+1701,28/06/2025,Asha,North,Furniture,Shelf,31721,2,2537,2025,June
+1702,26/06/2025,Ajay,West,Furniture,Shelf,13305,10,798,2025,June
+1703,17/09/2025,Gokul,East,Electronics,Mobile,34820,4,2437,2025,September
+1704,15/12/2025,Anjali,North,Electronics,Speaker,59747,8,10156,2025,December
+1705,29/04/2025,Latha,East,Electronics,SSD,40620,9,2031,2025,April
+1706,30/01/2025,Vinod,West,Office Supplies,Notebook,8561,5,1112,2025,January
+1707,30/06/2025,Priya,East,Furniture,Chair,21349,6,1921,2025,June
+1708,16/08/2025,Vijay,East,Office Supplies,Marker,975,10,78,2025,August
+1709,25/01/2025,Vijay,East,Office Supplies,Calculator,7882,3,945,2025,January
+1710,12/04/2025,Vijay,West,Furniture,Recliner,27992,8,3079,2025,April
+1711,13/06/2025,Pooja,South,Electronics,Tablet,29521,9,2656,2025,June
+1712,25/05/2025,Naveen,South,Furniture,TV Stand,32511,7,1950,2025,May
+1713,29/12/2025,Nisha,South,Furniture,Bookshelf,28000,5,4760,2025,December
+1714,19/09/2025,Vinod,North,Electronics,Laptop,34370,4,6530,2025,September
+1715,13/12/2025,Suresh,West,Electronics,Tablet,57385,8,6886,2025,December
+1716,27/12/2025,Suresh,West,Electronics,Camera,7019,7,1193,2025,December
+1717,18/02/2025,Karthik,South,Electronics,Headphones,30713,10,5528,2025,February
+1718,18/06/2025,Rahul,North,Electronics,Tablet,7384,10,664,2025,June
+1719,04/06/2025,Renu,North,Office Supplies,Notebook,6190,9,866,2025,June
+1720,14/11/2025,Sanjay,South,Electronics,Speaker,24433,8,4886,2025,November
+1721,20/12/2025,Karthik,West,Electronics,Mobile,28704,6,4018,2025,December
+1722,21/04/2025,Reshma,East,Furniture,Bed,23872,10,2387,2025,April
+1723,16/11/2025,Prakash,West,Electronics,Tablet,8603,10,1462,2025,November
+1724,23/03/2025,Naveen,West,Furniture,Cupboard,12476,1,1497,2025,March
+1725,06/04/2025,Divya,West,Office Supplies,Calculator,3657,6,548,2025,April
+1726,08/04/2025,Latha,West,Electronics,Laptop,34513,9,5176,2025,April
+1727,20/05/2025,Ajay,West,Electronics,Smartwatch,12720,9,1653,2025,May
+1728,26/09/2025,Prakash,North,Office Supplies,Stapler,9055,7,724,2025,September
+1729,07/09/2025,Anjali,North,Furniture,Cupboard,4455,10,623,2025,September
+1730,09/02/2025,Gokul,South,Office Supplies,Printer,9011,2,630,2025,February
+1731,20/02/2025,Anjali,East,Electronics,SSD,24566,10,1473,2025,February
+1732,17/05/2025,Renu,West,Furniture,Shelf,22316,2,3570,2025,May
+1733,21/12/2025,Amit,East,Office Supplies,Pen,9361,3,468,2025,December
+1734,01/03/2025,Swathi,West,Electronics,Speaker,33045,9,2974,2025,March
+1735,22/02/2025,Vinod,North,Furniture,Sofa,7515,1,901,2025,February
+1736,06/07/2025,Latha,West,Furniture,Recliner,27883,8,3345,2025,July
+1737,17/02/2025,Suresh,West,Office Supplies,Envelope,9682,3,968,2025,February
+1738,31/10/2025,Sanjay,West,Furniture,Bookshelf,33973,3,5095,2025,October
+1739,16/11/2025,Swathi,West,Electronics,Headphones,14389,1,2014,2025,November
+1740,27/08/2025,Ramesh,South,Office Supplies,Printer,363,9,72,2025,August
+1741,22/09/2025,Sanjay,North,Office Supplies,Marker,3809,10,380,2025,September
+1742,20/07/2025,Reshma,North,Furniture,TV Stand,12099,4,1451,2025,July
+1743,27/10/2025,Ajay,South,Office Supplies,Notebook,1572,5,78,2025,October
+1744,25/06/2025,Asha,West,Furniture,Recliner,1577,6,236,2025,June
+1745,26/02/2025,Harish,East,Office Supplies,Notebook,9998,3,1599,2025,February
+1746,03/04/2025,Nisha,North,Electronics,Smartwatch,40353,4,8070,2025,April
+1747,13/09/2025,Asha,East,Furniture,Table,18570,6,1857,2025,September
+1748,01/02/2025,Sanjay,East,Furniture,TV Stand,27840,2,1670,2025,February
+1749,16/02/2025,Prakash,East,Office Supplies,Marker,6066,6,363,2025,February
+1750,09/05/2025,Harish,North,Furniture,TV Stand,25853,4,4653,2025,May
+1751,12/10/2025,Sanjay,West,Electronics,Keyboard,34546,3,5181,2025,October
+1752,31/12/2025,Anjali,South,Furniture,Shelf,32024,8,5123,2025,December
+1753,30/04/2025,Nisha,North,Electronics,Monitor,24837,3,2732,2025,April
+1754,07/10/2025,Priya,West,Office Supplies,Calculator,9013,1,1622,2025,October
+1755,18/07/2025,Reshma,North,Office Supplies,Notebook,2639,4,316,2025,July
+1756,05/11/2025,Ajay,West,Electronics,Headphones,53388,5,5338,2025,November
+1757,28/03/2025,Amit,East,Electronics,Laptop,14923,9,2984,2025,March
+1758,21/02/2025,Nisha,West,Electronics,SSD,7234,8,723,2025,February
+1759,26/02/2025,Divya,North,Electronics,Mouse,11924,6,2146,2025,February
+1760,10/12/2025,Meena,East,Office Supplies,Calculator,686,9,109,2025,December
+1761,29/07/2025,Swathi,South,Electronics,Tablet,4101,9,205,2025,July
+1762,29/12/2025,Gokul,West,Furniture,TV Stand,9864,5,1775,2025,December
+1763,17/08/2025,Amit,North,Office Supplies,Calculator,7405,10,1258,2025,August
+1764,05/04/2025,Rahul,East,Furniture,Bookshelf,12073,9,1207,2025,April
+1765,30/03/2025,Anjali,West,Furniture,TV Stand,3985,8,318,2025,March
+1766,25/07/2025,Priya,East,Furniture,Cupboard,25179,1,3776,2025,July
+1767,25/10/2025,Naveen,North,Electronics,Tablet,38040,4,4184,2025,October
+1768,20/02/2025,Suresh,East,Furniture,Shelf,21841,6,3494,2025,February
+1769,03/08/2025,Prakash,West,Electronics,Camera,44849,9,8521,2025,August
+1770,20/06/2025,Ajay,North,Furniture,Shelf,14342,7,717,2025,June
+1771,04/02/2025,Reshma,South,Electronics,SSD,38064,4,4187,2025,February
+1772,14/03/2025,Divya,West,Office Supplies,Notebook,7669,3,920,2025,March
+1773,09/02/2025,Deepa,East,Furniture,Desk,34509,2,2415,2025,February
+1774,25/01/2025,Pooja,West,Electronics,Headphones,14703,3,2205,2025,January
+1775,20/05/2025,Manoj,South,Electronics,Camera,22370,5,1118,2025,May
+1776,14/08/2025,Manoj,North,Electronics,Mobile,21453,1,1930,2025,August
+1777,12/08/2025,Nisha,East,Furniture,Bed,9079,6,453,2025,August
+1778,14/08/2025,Naveen,West,Furniture,Recliner,7919,8,1108,2025,August
+1779,08/12/2025,Naveen,East,Electronics,Mouse,30344,5,5765,2025,December
+1780,24/08/2025,Priya,West,Furniture,Desk,28314,6,3397,2025,August
+1781,15/05/2025,Karthik,West,Office Supplies,Envelope,7578,10,682,2025,May
+1782,23/08/2025,Nisha,South,Electronics,Headphones,25524,7,2297,2025,August
+1783,16/08/2025,Swathi,North,Furniture,Sofa,30011,4,3001,2025,August
+1784,21/03/2025,Sanjay,East,Electronics,Mouse,16586,7,1990,2025,March
+1785,13/09/2025,Divya,North,Electronics,Smartwatch,38485,8,7697,2025,September
+1786,17/10/2025,Deepa,West,Electronics,Headphones,54081,6,9734,2025,October
+1787,05/03/2025,Meena,South,Electronics,Speaker,31292,1,1877,2025,March
+1788,03/05/2025,Prakash,North,Furniture,Cupboard,2852,4,541,2025,May
+1789,22/04/2025,Keerthi,South,Office Supplies,Stapler,1671,9,334,2025,April
+1790,16/06/2025,Manoj,East,Electronics,Headphones,16800,6,2016,2025,June
+1791,07/01/2025,Anjali,East,Office Supplies,Marker,7358,10,735,2025,January
+1792,08/11/2025,Pooja,West,Office Supplies,Stapler,1859,9,278,2025,November
+1793,21/10/2025,Priya,West,Electronics,SSD,34825,2,6965,2025,October
+1794,26/11/2025,Anjali,North,Office Supplies,Pen,4031,8,282,2025,November
+1795,19/11/2025,Sanjay,South,Furniture,Cupboard,34402,4,4472,2025,November
+1796,12/01/2025,Anjali,West,Electronics,Headphones,10353,2,1345,2025,January
+1797,22/04/2025,Reshma,East,Electronics,Mobile,59345,8,9495,2025,April
+1798,20/12/2025,Reshma,South,Office Supplies,Calculator,5106,8,714,2025,December
+1799,16/12/2025,Naveen,North,Furniture,Chair,18976,5,3415,2025,December
+1800,27/11/2025,Pooja,South,Furniture,Bookshelf,4228,9,211,2025,November
+1801,29/01/2025,Manoj,South,Furniture,Table,24450,1,2445,2025,January
+1802,15/05/2025,Gokul,South,Furniture,Desk,23275,5,3258,2025,May
+1803,01/03/2025,Suresh,East,Office Supplies,Marker,9170,6,1192,2025,March
+1804,03/05/2025,Vijay,West,Electronics,Smartwatch,52694,2,3688,2025,May
+1805,08/04/2025,Arun,South,Office Supplies,Paper,7878,6,551,2025,April
+1806,25/12/2025,Ajay,North,Furniture,Shelf,23756,7,2613,2025,December
+1807,23/11/2025,Amit,West,Office Supplies,Printer,2283,5,273,2025,November
+1808,16/01/2025,Vinod,North,Furniture,Table,29337,1,4693,2025,January
+1809,02/11/2025,Gokul,South,Electronics,Mouse,6949,9,1389,2025,November
+1810,16/06/2025,Manoj,North,Furniture,Chair,1501,4,120,2025,June
+1811,13/07/2025,Keerthi,South,Office Supplies,Calculator,6302,9,630,2025,July
+1812,05/05/2025,Ramesh,North,Furniture,Sofa,25419,5,3558,2025,May
+1813,04/03/2025,Naveen,South,Furniture,Sofa,33256,6,2660,2025,March
+1814,19/06/2025,Pooja,North,Electronics,Tablet,45966,3,7814,2025,June
+1815,13/12/2025,Asha,West,Office Supplies,Paper,6071,6,789,2025,December
+1816,08/12/2025,Ramesh,West,Furniture,Recliner,8562,6,941,2025,December
+1817,16/09/2025,Ramesh,North,Furniture,Recliner,5979,1,956,2025,September
+1818,14/05/2025,Divya,West,Furniture,Cupboard,19420,7,1359,2025,May
+1819,22/03/2025,Pooja,North,Electronics,Mouse,16147,4,1130,2025,March
+1820,07/10/2025,Deepa,West,Furniture,Sofa,6899,1,344,2025,October
+1821,28/05/2025,Arun,South,Furniture,TV Stand,6148,9,307,2025,May
+1822,12/12/2025,Nisha,South,Electronics,Laptop,51375,3,4110,2025,December
+1823,18/10/2025,Anjali,West,Office Supplies,Pen,5763,1,806,2025,October
+1824,08/10/2025,Karthik,West,Office Supplies,Paper,7374,5,1179,2025,October
+1825,20/06/2025,Priya,South,Office Supplies,Marker,5074,4,456,2025,June
+1826,17/01/2025,Priya,East,Furniture,Sofa,30636,8,2144,2025,January
+1827,26/06/2025,Naveen,West,Furniture,Sofa,9352,7,1683,2025,June
+1828,01/12/2025,Vinod,North,Furniture,Bookshelf,34800,5,5220,2025,December
+1829,30/12/2025,Vinod,South,Electronics,SSD,15334,7,2913,2025,December
+1830,06/03/2025,Suresh,South,Furniture,Table,8812,9,704,2025,March
+1831,30/06/2025,Vijay,East,Office Supplies,Stapler,8528,7,1705,2025,June
+1832,14/11/2025,Ajay,East,Office Supplies,Stapler,726,10,87,2025,November
+1833,24/10/2025,Priya,North,Electronics,Camera,35255,4,5288,2025,October
+1834,03/06/2025,Ramesh,West,Electronics,Keyboard,5353,8,588,2025,June
+1835,02/10/2025,Vijay,West,Electronics,Mouse,36123,10,6863,2025,October
+1836,08/09/2025,Keerthi,North,Office Supplies,Notebook,7896,8,947,2025,September
+1837,05/10/2025,Ajay,East,Furniture,Desk,33593,8,4703,2025,October
+1838,14/06/2025,Prakash,East,Office Supplies,Stapler,1602,2,128,2025,June
+1839,11/11/2025,Latha,South,Office Supplies,Files,531,3,37,2025,November
+1840,05/01/2025,Ramesh,North,Office Supplies,Paper,7500,1,1425,2025,January
+1841,17/10/2025,Vinod,South,Office Supplies,Paper,8054,10,1127,2025,October
+1842,21/05/2025,Vijay,West,Office Supplies,Calculator,6020,1,1143,2025,May
+1843,24/02/2025,Swathi,West,Furniture,Desk,11419,10,1370,2025,February
+1844,22/03/2025,Ramesh,South,Electronics,Smartwatch,31182,4,4053,2025,March
+1845,13/11/2025,Arun,South,Electronics,Mobile,54081,5,9734,2025,November
+1846,29/12/2025,Gokul,West,Furniture,Bed,26481,7,5031,2025,December
+1847,03/06/2025,Vinod,West,Furniture,TV Stand,8150,8,1385,2025,June
+1848,01/04/2025,Keerthi,West,Office Supplies,Marker,4620,1,462,2025,April
+1849,12/04/2025,Ramesh,West,Office Supplies,Stapler,3258,9,162,2025,April
+1850,22/12/2025,Amit,South,Electronics,Laptop,25289,5,4046,2025,December
+1851,18/11/2025,Sanjay,West,Furniture,Table,8250,7,577,2025,November
+1852,05/09/2025,Vinod,South,Office Supplies,Calculator,4422,1,221,2025,September
+1853,22/07/2025,Gokul,North,Office Supplies,Envelope,309,7,52,2025,July
+1854,15/10/2025,Naveen,South,Electronics,Tablet,57634,5,6339,2025,October
+1855,08/07/2025,Divya,East,Electronics,Camera,1828,8,127,2025,July
+1856,13/04/2025,Nisha,South,Furniture,Shelf,16606,9,2490,2025,April
+1857,01/02/2025,Ramesh,North,Office Supplies,Stapler,5374,3,806,2025,February
+1858,14/08/2025,Latha,North,Office Supplies,Printer,6352,3,381,2025,August
+1859,12/05/2025,Swathi,East,Furniture,Cupboard,31402,2,3454,2025,May
+1860,22/12/2025,Kavya,North,Office Supplies,Files,2172,9,304,2025,December
+1861,11/12/2025,Sanjay,North,Office Supplies,Notebook,8829,1,441,2025,December
+1862,20/08/2025,Meena,East,Office Supplies,Envelope,3932,10,471,2025,August
+1863,27/07/2025,Ajay,West,Office Supplies,Stapler,1314,9,144,2025,July
+1864,25/10/2025,Harish,North,Electronics,Camera,39454,8,3945,2025,October
+1865,19/03/2025,Rahul,North,Electronics,Laptop,38915,8,5058,2025,March
+1866,18/09/2025,Vijay,East,Furniture,Bookshelf,14518,7,2468,2025,September
+1867,21/07/2025,Sneha,East,Electronics,Headphones,41103,9,7398,2025,July
+1868,22/07/2025,Gokul,North,Electronics,Mobile,35624,1,6412,2025,July
+1869,13/09/2025,Ajay,North,Furniture,Recliner,26151,7,1569,2025,September
+1870,30/07/2025,Keerthi,North,Office Supplies,Stapler,1106,9,99,2025,July
+1871,25/07/2025,Ramesh,East,Office Supplies,Files,422,9,21,2025,July
+1872,30/12/2025,Priya,South,Office Supplies,Envelope,9753,9,1853,2025,December
+1873,20/01/2025,Sneha,North,Office Supplies,Pen,4898,1,979,2025,January
+1874,16/09/2025,Ramesh,West,Office Supplies,Notebook,7758,6,1318,2025,September
+1875,21/10/2025,Harish,East,Office Supplies,Pen,9500,1,1235,2025,October
+1876,26/05/2025,Suresh,North,Furniture,Sofa,27564,9,1929,2025,May
+1877,25/02/2025,Amit,North,Furniture,Cupboard,34442,7,6543,2025,February
+1878,19/07/2025,Harish,East,Office Supplies,Pen,1227,2,208,2025,July
+1879,20/09/2025,Reshma,North,Office Supplies,Notebook,7509,1,1276,2025,September
+1880,31/01/2025,Ajay,South,Furniture,Bed,32522,8,6179,2025,January
+1881,15/04/2025,Anjali,West,Electronics,Mobile,38670,8,3867,2025,April
+1882,26/06/2025,Vinod,East,Office Supplies,Printer,5478,7,712,2025,June
+1883,07/01/2025,Pooja,East,Electronics,Headphones,56269,3,8440,2025,January
+1884,02/07/2025,Vinod,North,Electronics,Monitor,20480,6,1228,2025,July
+1885,07/09/2025,Ajay,East,Furniture,Bookshelf,28829,5,4324,2025,September
+1886,06/08/2025,Ramesh,East,Furniture,Bookshelf,11786,1,2357,2025,August
+1887,29/03/2025,Meena,North,Electronics,Mobile,5014,4,401,2025,March
+1888,14/12/2025,Kavya,West,Furniture,Recliner,7692,10,615,2025,December
+1889,18/01/2025,Priya,South,Electronics,Monitor,48211,7,6749,2025,January
+1890,02/12/2025,Anjali,South,Furniture,Table,21107,2,1688,2025,December
+1891,03/05/2025,Deepa,North,Furniture,Chair,26374,4,1582,2025,May
+1892,18/07/2025,Gokul,East,Office Supplies,Marker,4156,1,207,2025,July
+1893,18/01/2025,Asha,West,Office Supplies,Calculator,9273,5,556,2025,January
+1894,20/10/2025,Anjali,East,Furniture,Chair,21784,2,2178,2025,October
+1895,15/05/2025,Manoj,East,Electronics,SSD,34494,10,6553,2025,May
+1896,16/03/2025,Kavya,East,Electronics,Mobile,27382,2,3559,2025,March
+1897,18/03/2025,Priya,North,Furniture,Bookshelf,21801,4,3924,2025,March
+1898,08/09/2025,Ramesh,West,Office Supplies,Paper,7275,6,1382,2025,September
+1899,14/05/2025,Kavya,West,Furniture,Desk,28770,10,5754,2025,May
+1900,10/09/2025,Amit,West,Furniture,Table,17890,8,894,2025,September
+1901,19/12/2025,Naveen,South,Electronics,Speaker,53945,3,4315,2025,December
+1902,29/01/2025,Ajay,West,Office Supplies,Notebook,5462,3,928,2025,January
+1903,12/06/2025,Vijay,East,Furniture,Cupboard,4624,4,462,2025,June
+1904,27/01/2025,Naveen,North,Electronics,SSD,49212,4,2460,2025,January
+1905,06/03/2025,Meena,East,Electronics,Tablet,52801,6,6336,2025,March
+1906,19/06/2025,Sneha,West,Office Supplies,Paper,3663,3,439,2025,June
+1907,04/12/2025,Anjali,North,Electronics,SSD,35480,6,6741,2025,December
+1908,27/02/2025,Ajay,West,Office Supplies,Paper,5350,5,374,2025,February
+1909,11/12/2025,Meena,East,Electronics,Camera,30966,3,5883,2025,December
+1910,10/09/2025,Asha,North,Office Supplies,Pen,9335,7,1400,2025,September
+1911,12/09/2025,Sanjay,South,Electronics,Laptop,29855,8,5075,2025,September
+1912,10/11/2025,Arun,West,Office Supplies,Calculator,6975,4,976,2025,November
+1913,04/11/2025,Vinod,East,Electronics,Mouse,17258,3,1725,2025,November
+1914,25/07/2025,Vijay,West,Furniture,Cupboard,23573,7,4478,2025,July
+1915,11/05/2025,Karthik,East,Furniture,Bed,34208,5,2736,2025,May
+1916,10/04/2025,Sneha,East,Electronics,Tablet,56658,1,2832,2025,April
+1917,19/01/2025,Deepa,West,Furniture,Chair,4789,1,766,2025,January
+1918,16/08/2025,Ajay,West,Office Supplies,Notebook,7874,8,1023,2025,August
+1919,08/04/2025,Vinod,South,Furniture,Shelf,9599,10,1247,2025,April
+1920,10/07/2025,Anjali,West,Electronics,Monitor,23584,2,4245,2025,July
+1921,03/01/2025,Prakash,South,Furniture,Bed,17831,9,2496,2025,January
+1922,20/02/2025,Arun,North,Office Supplies,Pen,4021,10,201,2025,February
+1923,14/12/2025,Pooja,East,Office Supplies,Printer,4345,9,738,2025,December
+1924,18/05/2025,Priya,East,Office Supplies,Files,4648,7,232,2025,May
+1925,18/04/2025,Latha,West,Furniture,Desk,8668,10,866,2025,April
+1926,16/10/2025,Sneha,South,Furniture,Bookshelf,21469,4,1288,2025,October
+1927,12/04/2025,Ramesh,West,Electronics,SSD,29978,3,5695,2025,April
+1928,22/12/2025,Kavya,South,Furniture,TV Stand,15897,1,794,2025,December
+1929,27/01/2025,Nisha,North,Furniture,Shelf,32947,2,6589,2025,January
+1930,28/08/2025,Naveen,North,Electronics,Mouse,32655,6,1959,2025,August
+1931,23/04/2025,Prakash,North,Office Supplies,Notebook,3879,5,775,2025,April
+1932,30/04/2025,Asha,South,Furniture,Table,17457,3,1047,2025,April
+1933,27/02/2025,Vijay,West,Electronics,Laptop,7728,4,1391,2025,February
+1934,05/07/2025,Prakash,East,Electronics,Speaker,27437,4,1920,2025,July
+1935,04/12/2025,Swathi,South,Office Supplies,Marker,2322,8,185,2025,December
+1936,25/12/2025,Anjali,West,Electronics,Mobile,13317,4,1331,2025,December
+1937,12/04/2025,Arun,East,Electronics,Laptop,27397,3,4383,2025,April
+1938,16/07/2025,Arun,East,Office Supplies,Pen,5737,4,286,2025,July
+1939,05/03/2025,Naveen,East,Electronics,Mouse,21017,3,2311,2025,March
+1940,04/01/2025,Priya,West,Office Supplies,Notebook,934,8,93,2025,January
+1941,20/12/2025,Deepa,South,Furniture,Cupboard,30346,2,6069,2025,December
+1942,27/01/2025,Gokul,South,Furniture,Chair,12793,1,1151,2025,January
+1943,19/06/2025,Arun,South,Electronics,Monitor,59858,3,9577,2025,June
+1944,03/05/2025,Ajay,North,Office Supplies,Stapler,3803,2,456,2025,May
+1945,26/03/2025,Swathi,East,Furniture,Bed,30470,5,4265,2025,March
+1946,16/02/2025,Sanjay,West,Furniture,Bed,23565,4,3299,2025,February
+1947,21/07/2025,Gokul,East,Electronics,Camera,7778,3,1244,2025,July
+1948,03/02/2025,Renu,West,Furniture,Desk,2263,8,248,2025,February
+1949,03/05/2025,Divya,West,Furniture,Recliner,14390,9,863,2025,May
+1950,08/12/2025,Swathi,West,Electronics,Smartwatch,31794,4,5722,2025,December
+1951,09/07/2025,Swathi,East,Electronics,Speaker,23839,3,4291,2025,July
+1952,24/12/2025,Vinod,North,Electronics,Mobile,39462,9,3156,2025,December
+1953,23/07/2025,Harish,North,Office Supplies,Calculator,1732,6,103,2025,July
+1954,30/10/2025,Kavya,North,Electronics,Tablet,58217,10,6403,2025,October
+1955,17/02/2025,Vijay,South,Office Supplies,Printer,6608,9,792,2025,February
+1956,20/08/2025,Ajay,East,Office Supplies,Printer,8325,1,1498,2025,August
+1957,08/04/2025,Pooja,North,Office Supplies,Marker,5074,8,761,2025,April
+1958,15/03/2025,Kavya,South,Electronics,Keyboard,13242,5,1324,2025,March
+1959,23/10/2025,Ramesh,South,Office Supplies,Envelope,6914,2,898,2025,October
+1960,22/10/2025,Deepa,North,Electronics,Keyboard,16817,2,2018,2025,October
+1961,07/07/2025,Priya,West,Furniture,Chair,22433,3,2018,2025,July
+1962,20/10/2025,Rahul,South,Furniture,Chair,9784,5,1369,2025,October
+1963,21/05/2025,Asha,North,Electronics,Monitor,50004,8,9500,2025,May
+1964,05/09/2025,Asha,East,Office Supplies,Stapler,7751,6,1550,2025,September
+1965,16/04/2025,Harish,South,Office Supplies,Stapler,1104,2,66,2025,April
+1966,04/05/2025,Rahul,East,Office Supplies,Notebook,8321,8,1664,2025,May
+1967,21/09/2025,Renu,South,Electronics,SSD,59109,10,7684,2025,September
+1968,05/01/2025,Prakash,East,Office Supplies,Files,1132,4,67,2025,January
+1969,20/03/2025,Vinod,South,Electronics,Tablet,52656,2,3685,2025,March
+1970,14/10/2025,Latha,West,Electronics,Keyboard,3191,10,287,2025,October
+1971,01/04/2025,Ajay,North,Office Supplies,Pen,7814,2,1328,2025,April
+1972,20/09/2025,Nisha,North,Furniture,Table,18290,8,2377,2025,September
+1973,14/11/2025,Manoj,West,Electronics,Laptop,50560,1,8089,2025,November
+1974,26/06/2025,Vijay,South,Office Supplies,Printer,7147,3,714,2025,June
+1975,15/03/2025,Gokul,West,Office Supplies,Pen,5520,2,662,2025,March
+1976,05/02/2025,Anjali,East,Furniture,Bookshelf,23986,8,4317,2025,February
+1977,30/08/2025,Ajay,North,Office Supplies,Marker,8991,9,1078,2025,August
+1978,25/09/2025,Naveen,West,Furniture,Sofa,11881,9,1069,2025,September
+1979,29/11/2025,Latha,West,Furniture,Bed,14531,1,2760,2025,November
+1980,14/12/2025,Naveen,West,Electronics,SSD,2528,2,505,2025,December
+1981,17/08/2025,Arun,South,Furniture,TV Stand,15402,2,2618,2025,August
+1982,09/12/2025,Suresh,South,Furniture,Chair,12862,2,2057,2025,December
+1983,28/02/2025,Arun,East,Electronics,Mobile,20919,6,3556,2025,February
+1984,03/03/2025,Vinod,East,Furniture,TV Stand,16244,1,2923,2025,March
+1985,07/08/2025,Karthik,West,Furniture,Table,19745,3,3949,2025,August
+1986,22/10/2025,Prakash,East,Electronics,SSD,2991,5,179,2025,October
+1987,03/11/2025,Divya,West,Furniture,Table,5232,6,470,2025,November
+1988,29/03/2025,Latha,East,Office Supplies,Calculator,4338,4,433,2025,March
+1989,17/12/2025,Swathi,North,Furniture,Chair,34990,7,4548,2025,December
+1990,20/05/2025,Meena,North,Office Supplies,Envelope,4799,5,623,2025,May
+1991,24/12/2025,Asha,North,Electronics,Camera,50585,3,6070,2025,December
+1992,19/11/2025,Vinod,East,Furniture,Bookshelf,5686,2,1023,2025,November
+1993,28/06/2025,Ajay,East,Electronics,SSD,53905,9,5390,2025,June
+1994,02/03/2025,Renu,South,Electronics,Monitor,12648,7,1897,2025,March
+1995,26/08/2025,Deepa,South,Electronics,Camera,57097,9,9135,2025,August
+1996,31/10/2025,Amit,West,Furniture,Bed,14926,4,746,2025,October
+1997,24/12/2025,Karthik,South,Electronics,Camera,6131,7,429,2025,December
+1998,07/12/2025,Arun,South,Electronics,Headphones,9725,3,680,2025,December
+1999,24/04/2025,Meena,West,Electronics,Smartwatch,14159,3,707,2025,April
+2000,04/09/2025,Keerthi,South,Office Supplies,Printer,2084,6,375,2025,September
